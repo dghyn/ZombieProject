@@ -1,0 +1,2 @@
+5.5.0p3:2.8.0.0
+StandaloneWindows
